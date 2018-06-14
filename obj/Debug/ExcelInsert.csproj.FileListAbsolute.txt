@@ -1,0 +1,14 @@
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\ExcelInsert.exe.config
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\ExcelInsert.exe
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\ExcelInsert.pdb
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\Dapper.dll
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\EPPlus.dll
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\Dapper.xml
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\EPPlus.xml
+D:\Dev\ExcelInsert\ExcelInsert\obj\Debug\ExcelInsert.csprojResolveAssemblyReference.cache
+D:\Dev\ExcelInsert\ExcelInsert\obj\Debug\ExcelInsert.exe
+D:\Dev\ExcelInsert\ExcelInsert\obj\Debug\ExcelInsert.pdb
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\MoreLinq.dll
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\System.ValueTuple.dll
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\MoreLinq.xml
+D:\Dev\ExcelInsert\ExcelInsert\bin\Debug\System.ValueTuple.xml
